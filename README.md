@@ -1,4 +1,5 @@
-![Netflix-new-icon](https://github.com/user-attachments/assets/5df06982-8fe9-427e-a75f-2b79481cba15)
+![BrandAssets_Logos_01-Wordmark](https://github.com/user-attachments/assets/fc257288-0c90-4676-bcd5-03ba5e1192a9)
+
 
 
 
