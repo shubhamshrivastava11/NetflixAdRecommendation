@@ -23,8 +23,8 @@ This project focuses on improving Netflix’s ad recommendation system using mac
 - **Database:** PostgreSQL
 - **Frontend:** React.js, Netflix UI mockup
 - **Deployment:** Docker, Kubernetes, AWS
-- **Visualization Tools - Power BI
-- **Prototyping- Figma for UX designing 
+- Visualization Tools - Power BI
+- Prototyping- Figma for UX designing 
 
 ## Key Milestones
 1. **Data Collection:** User data ingestion pipeline using Kafka and Spark.
