@@ -16,20 +16,21 @@ This project focuses on improving Netflix’s ad recommendation system using mac
 - **A/B Testing:** Includes functionality to test multiple ad formats and placements for performance optimization.
 
 ## Tech Stack
-- **Backend:** Python, Flask
-- **Machine Learning:** Scikit-learn, TensorFlow
-- **Data Processing:** Apache Kafka, Spark
-- **Database:** PostgreSQL
-- **Frontend:** React.js, Netflix UI mockup
-- **Deployment:** Docker, Kubernetes, AWS
-- Visualization Tools - Power BI
-- Prototyping- Figma for UX designing 
+- **Backend:** Python, Jupyter No
+- **Machine Learning:** Scikit-learn (KNN Algorithm)
+- **Data Processing:** Pandas, Numpy, Python String Collections 
+- **Database:** MySQL
+- **Deployment:** Docker, AWS
+- **Visualization Tools:** Power BI, matplotlib
+- **Prototyping:** Figma for UX designing 
+
 
 ## Key Milestones
-1. **Data Collection:** User data ingestion pipeline using Kafka and Spark.
-2. **Model Training:** Collaborative filtering and NLP models trained on user data.
-3. **Integration:** Backend APIs to serve recommendations integrated with Netflix's user interface.
-4. **Testing:** A/B testing and performance evaluation of recommendations.
+1. **Data Collection:** User data ingestion pipeline using Python-based data processing.
+2. **Model Training:** Machine learning models (e.g., collaborative filtering, KNN, NLP) trained on user data using Scikit-learn and Python libraries.
+3. **Integration:** Backend APIs for serving recommendations, integrated with user-facing platforms.
+4. **Testing:** Evaluating model performance using Python tools like Jupyter and pandas.
+
 
 ![image](https://github.com/user-attachments/assets/81ff2017-fe6b-42df-9616-39c67d42c644)
 
@@ -45,6 +46,7 @@ This project focuses on improving Netflix’s ad recommendation system using mac
 
 **Genre-based User Engagement:** Analysis of preferred genres (e.g., Documentary, Drama, Comedy) to tailor ads based on content consumption patterns, increasing the likelihood of ad engagement.
 
+## Analysis 
 This data-driven approach allows for an optimized ad recommendation strategy, ensuring Netflix delivers high-impact, relevant advertisements that align with both user preferences and advertiser goals.
 
 ## How to Run
