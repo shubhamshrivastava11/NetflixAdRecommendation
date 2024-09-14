@@ -31,7 +31,8 @@ This project focuses on improving Netflix’s ad recommendation system using mac
 3. **Integration:** Backend APIs to serve recommendations integrated with Netflix's user interface.
 4. **Testing:** A/B testing and performance evaluation of recommendations.
 
-![image](https://github.com/user-attachments/assets/89458a6d-e9db-4f7b-ae3a-415afdbe9673)
+![image](https://github.com/user-attachments/assets/81ff2017-fe6b-42df-9616-39c67d42c644)
+
 
 
 Key visualized metrics include:
