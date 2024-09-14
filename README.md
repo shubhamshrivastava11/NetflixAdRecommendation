@@ -1,6 +1,4 @@
-![BrandAssets_Logos_01-Wordmark](https://github.com/user-attachments/assets/fc257288-0c90-4676-bcd5-03ba5e1192a9)
-
-![netflix__1_](https://github.com/user-attachments/assets/a21e6b97-0779-42ae-8da3-a9f0797b7056)
+![image](https://github.com/user-attachments/assets/d6dc1f06-19a4-4d20-91e2-e5eba2b37bec)
 
 
 
