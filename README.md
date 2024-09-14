@@ -38,13 +38,13 @@ This project focuses on improving Netflix’s ad recommendation system using mac
 
 ## Key Visualized Metrics Include: 
 
-**Subscription Plan Insights:** A breakdown of users by subscription type (Premium, Standard, Basic) to identify customer segments and optimize ad placements accordingly.
+- **Subscription Plan Insights:** A breakdown of users by subscription type (Premium, Standard, Basic) to identify customer segments and optimize ad placements accordingly.
 
-**Geographic Distribution:** A map highlights user locations across the U.S., facilitating location-based ad targeting to improve relevance and ad campaign effectiveness.
+- **Geographic Distribution:** A map highlights user locations across the U.S., facilitating location-based ad targeting to improve relevance and ad campaign effectiveness.
 
-**Payment Method Analysis:** Insights into total payments by method (American Express, Discover, MasterCard, Visa), offering valuable data for aligning payment preferences with targeted promotions and partnerships.
+- **Payment Method Analysis:** Insights into total payments by method (American Express, Discover, MasterCard, Visa), offering valuable data for aligning payment preferences with targeted promotions and partnerships.
 
-**Genre-based User Engagement:** Analysis of preferred genres (e.g., Documentary, Drama, Comedy) to tailor ads based on content consumption patterns, increasing the likelihood of ad engagement.
+- **Genre-based User Engagement:** Analysis of preferred genres (e.g., Documentary, Drama, Comedy) to tailor ads based on content consumption patterns, increasing the likelihood of ad engagement.
 
 ## Analysis 
 This data-driven approach allows for an optimized ad recommendation strategy, ensuring Netflix delivers high-impact, relevant advertisements that align with both user preferences and advertiser goals.
