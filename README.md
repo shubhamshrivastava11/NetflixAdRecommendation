@@ -34,6 +34,17 @@ This project focuses on improving Netflix’s ad recommendation system using mac
 
 ![image](https://github.com/user-attachments/assets/9f709701-5c5d-4dcc-b40e-c933e6d275f2)
 
+Key visualized metrics include:
+
+Subscription Plan Insights: A breakdown of users by subscription type (Premium, Standard, Basic) to identify customer segments and optimize ad placements accordingly.
+
+Geographic Distribution: A map highlights user locations across the U.S., facilitating location-based ad targeting to improve relevance and ad campaign effectiveness.
+
+Payment Method Analysis: Insights into total payments by method (American Express, Discover, MasterCard, Visa), offering valuable data for aligning payment preferences with targeted promotions and partnerships.
+
+Genre-based User Engagement: Analysis of preferred genres (e.g., Documentary, Drama, Comedy) to tailor ads based on content consumption patterns, increasing the likelihood of ad engagement.
+
+This data-driven approach allows for an optimized ad recommendation strategy, ensuring Netflix delivers high-impact, relevant advertisements that align with both user preferences and advertiser goals.
 
 ## How to Run
 1. Clone the repository: 
