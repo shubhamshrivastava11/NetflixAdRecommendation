@@ -16,7 +16,7 @@ This project focuses on improving Netflix’s ad recommendation system using mac
 - **A/B Testing:** Includes functionality to test multiple ad formats and placements for performance optimization.
 
 ## Tech Stack
-- **Backend:** Python, Jupyter No
+- **Backend:** Python, Jupyter Notebook
 - **Machine Learning:** Scikit-learn (KNN Algorithm)
 - **Data Processing:** Pandas, Numpy, Python String Collections 
 - **Database:** MySQL
